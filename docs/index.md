@@ -1,6 +1,3 @@
----
-title:Security Related
----
 
 ## 本サイトの位置づけ・目的
 
