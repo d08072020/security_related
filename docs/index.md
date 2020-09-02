@@ -27,7 +27,16 @@ https://www.ipa.go.jp/about/press/20200827.html
 https://www.ibm.com/blogs/security/jp-ja/whats-new-2020-cost-of-a-data-breach-report/
 
 
-## 脆弱性対策ツール
+## ツール関連
+
+### nmap
+
+ポートスキャンを実施するツール
+
+### OWASP ZAP
+Webサイトに対して攻撃を行い、脆弱性を確認するツール
+
+https://www.zaproxy.org/
 
 ### Pysa
 
