@@ -1,2 +1,0 @@
-Small security related notes.
-
