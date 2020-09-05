@@ -56,6 +56,18 @@
 [5分で読む解説+チェックシート](https://note.com/tanakato8/n/n8d99371d1aa6)
 
 
+### IPA ISMAP:紹介動画
+ISMAP(政府情報システムためのセキュリティ評価制度)について、制度の概要から基本規程、クラウドサービス事業者に対する要求事項、監査機関を対象とした基準を解説した動画。
+[https://www.ipa.go.jp/security/ismap/tutorial.html](https://www.ipa.go.jp/security/ismap/tutorial.html)
+
+
+### JSSEC 『IoTセキュリティチェックシート入門』公開
+IoTセキュリティチェックシートの解説スライドと動画
+[https://www.jssec.org/report/20200901.html](https://www.jssec.org/report/20200901.html)
+[https://www.jssec.org/iot-youtube](https://www.jssec.org/iot-youtube)
+
+
+
 ## レポート
 
 ### 日本IBM 情報漏えい時に発生するコストに関する調査2020
@@ -65,6 +77,23 @@
 * 情報漏えい発生から検知まで平均で207日、封じ込めまで280日
 
 [https://www.ibm.com/blogs/security/jp-ja/whats-new-2020-cost-of-a-data-breach-report/](https://www.ibm.com/blogs/security/jp-ja/whats-new-2020-cost-of-a-data-breach-report/)
+
+
+### IPA 情報セキュリティ白書2020
+情報セキュリティに関する国内外の政策や脅威の動向、インシデントの発生状況等に関する白書
+
+[https://www.ipa.go.jp/security/publications/hakusyo/2020.html](https://www.ipa.go.jp/security/publications/hakusyo/2020.html)
+
+### IPA IT人材白書2020
+「DX取り組み企業やDXに対応する人材」、「IT企業やユーザー企業におけるIT人材の場の拡がり」という観点から、企業やIT人材の現状を把握するため調査・分析された白書
+
+[https://www.ipa.go.jp/jinzai/jigyou/about.html](https://www.ipa.go.jp/jinzai/jigyou/about.html)
+
+### トレンドマイクロ　2020年上半期の脅威動向分析
+2020年上半期の脅威動向を分析した資料
+
+[https://blog.trendmicro.co.jp/archives/25979](https://blog.trendmicro.co.jp/archives/25979)
+
 
 
 ## ツール関連
@@ -127,3 +156,5 @@ Emotetに感染していないか確認するツール
 
 * [日経新聞 テレワーク、VPN暗証番号流出　国内38社に不正接続](https://www.nikkei.com/article/DGXMZO62994110U0A820C2MM8000/)
 * [ITMedia VPNパスワード流出、原因は「テレワーク用に急きょ稼働させた旧VPN装置に脆弱性」　平田機工](https://www.itmedia.co.jp/news/articles/2008/26/news123.html)
+
+
