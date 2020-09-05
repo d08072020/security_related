@@ -35,6 +35,27 @@
 
 [https://www.ipa.go.jp/security/vuln/report/notice/guideforconsumer.html](https://www.ipa.go.jp/security/vuln/report/notice/guideforconsumer.html)
 
+
+### NIST SP 800-190 アプリケーションコンテナセキュリティガイド
+
+コンテナ技術に関するセキュリティガイド。
+
+[IPAによる日本語訳](https://www.ipa.go.jp/files/000085279.pdf)
+
+[本家](https://doi.org/10.6028/NIST.SP.800-190)
+
+以下のような情報が記載されている。
+* コンテナの概要
+* コンテナに関連するリスクと対策
+* 驚異シナリオ例
+* ライフサイクル上の考慮事項
+* コンテナ技術全般に関する話であり、ソフトウェア固有の内容や、具体的なコマンド等は含まない
+
+主な対象読者：コンテナを利用する技術者、セキュリティ担当者
+
+[5分で読む解説+チェックシート](https://note.com/tanakato8/n/n8d99371d1aa6)
+
+
 ## レポート
 
 ### 日本IBM 情報漏えい時に発生するコストに関する調査2020
@@ -94,6 +115,11 @@ Webアプリケーション用のセキュリティ調査ツール
 
 [https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)
 
+### EmoCheck
+
+Emotetに感染していないか確認するツール
+
+[https://github.com/JPCERTCC/EmoCheck/releases](https://github.com/JPCERTCC/EmoCheck/releases)
 
 ## 重要なインシデント
 
