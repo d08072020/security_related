@@ -10,6 +10,19 @@
 
 ## スタンダード/ガイド
 
+### IPA 制御システム関連のサイバーインシデント事例
+
+制御システムに関するサイバーインシデントの事例集。2020/09/13現在、事例7まで公開されている。
+
+[https://www.ipa.go.jp/security/controlsystem/incident.html](https://www.ipa.go.jp/security/controlsystem/incident.html)
+
+
+### 総務省 テレワークセキュリティに関する手引き（チェックリスト）等の公表
+
+セキュリティの仙人担当者はいないがシステム管理者は存在するような企業を対象とした、テレワークを実施する上での手引き
+
+[https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00080.html](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00080.html)
+
 ### IPA インターネット接続機器の安全な選定・利用ガイドと製品開発者向けガイド
 
 インターネットに接続される機器に関する、利用者向けのガイドと、開発者向けのガイド
@@ -69,6 +82,18 @@ IoTセキュリティチェックシートの解説スライドと動画
 
 
 ## レポート
+
+### フィッシング対策協議会　インターネットサービス利用者に対する 「認証方法」に関するアンケート調査結果報告書
+
+インターネットサービス利用者に対する「認証方法」に関するアンケート調査。
+
+主なポイント
+* 利用しているサービスも、利用しているデバイスにも年代による傾向あり
+* 二段階認証は90%以上が知っているが多要素認証は50%程度
+* パスワード管理ソフトを使っている人も少ない
+* ・パスワードをある程度使い分けているケースが多くなっている
+
+[https://www.antiphishing.jp/news/info/20200909.html](https://www.antiphishing.jp/news/info/20200909.html)
 
 ### 日本IBM 情報漏えい時に発生するコストに関する調査2020
 ポイント
@@ -151,6 +176,16 @@ Emotetに感染していないか確認するツール
 [https://github.com/JPCERTCC/EmoCheck/releases](https://github.com/JPCERTCC/EmoCheck/releases)
 
 ## 重要なインシデント
+
+
+### ドコモ口座を利用した不正チャージ(2020年9月)
+
+ドコモ口座と銀行間の連携に関する脆弱性による不正チャージ
+
+[piyolog](https://piyolog.hatenadiary.jp/entry/2020/09/08/054431)
+
+[Fox on Security](https://foxsecurity.hatenablog.com/entry/2020/09/10/090000)
+
 
 ### VPNの不正接続について(2020年8月)
 
