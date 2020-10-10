@@ -17,14 +17,14 @@ def main():
         elif line.startswith("tag:"):
             tags=line.replace("\n","").split(":")[1].split(",")
             for tItem in tags:
-                item=item+"["+tItem+"]("+tItem+".html),"
+                item=item+"["+tItem+"]("+tItem.replace(" ","_")+".html),"
             item=item+"\n"
         else:
             item=item+line
     f.close()
 
     for key,val in item_list_by_tag.items():
-        f2 = open(key+".md","w")
+        f2 = open(key.replace(" ","_")+".md","w")
         for item in val:
             f2.write(item)
         f2.close()
