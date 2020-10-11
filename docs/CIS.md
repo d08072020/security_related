@@ -1,3 +1,9 @@
+### CIS CSAT Proの1.1.0
+[スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),
+CIS Controlsについて、セルフチェックを行うツール。
+
+[https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/](https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/)
+
 ### Top 10 Malware August 2020
 [レポート](レポート.html),[CIS](CIS.html),[Top 10 Malware](Top_10_Malware.html),
 CISによる、8月のマルウェアトップ10。

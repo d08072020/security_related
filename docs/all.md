@@ -1,3 +1,72 @@
+### ゆうちょ銀行のmijica不正利用
+[ゆうちょ銀行](ゆうちょ銀行.html),[重要なインシデント](重要なインシデント.html),
+ゆうちょ銀行のmijicaで発生している不正利用のインシデント。
+
+[ゆうちょ銀の「mijica」で新たな不正か　カードが届く前に番号を盗み商品購入](https://www.itmedia.co.jp/news/articles/2010/07/news080.html)
+
+[ゆうちょ銀のVISAデビット「mijica」不正ログインで情報流出　1422人に被害か](https://www.itmedia.co.jp/news/articles/2010/05/news057.html)
+
+[ゆうちょ銀行のmijica Webへの不正ログインについてまとめてみた](https://piyolog.hatenadiary.jp/entry/2020/10/05/073000)
+
+### 米CISA Emotet対策
+[注意喚起](注意喚起.html),[CISA](CISA.html),[Emotet](Emotet.html),[ガイド](ガイド.html),
+米CISAが、Emotetに対するアラート。
+
+対策一覧（一部意訳）
+* マルウェアに関連する添付ファイル(.dll, .exe等)がついたメールをブロックする
+* アンチウィルスソフトでスキャンできない添付ファイル(zipファイル等)がついたメールをブロックする
+* グループポリシー(Group Policy Object)と、ファイアウォールのルールを実装する
+* アンチウィルスソフトと、パッチ管理のプロセスを導入する
+* メールフィルターと不信なIPからの通信をブロックするファイアウォールの実装
+* 最小権限の原則を行う
+* DMARCを導入する
+* ネットワークやファンクションを分離する(セグメンテーション)
+* 同じ階層レベルでの不要な通信を制限する
+* ファイルやプリンターの共有サービスを停止する。もし必要な場合、強いパスワードかAD認証を利用する。
+* MFA(多要素認証)を行う
+* 送信元や添付ファイルが想定されたものであったとしても、添付ファイルを開く時は注意する。
+* ファイアウォールを有効にし、未承諾な通信要求を拒否するように設定する。
+* 不要なサービスを停止する。
+* メールの添付ファイルはスキャンし、疑わしいものは削除する。スキャンされた添付ファイルが「正しいファイル形式」か確認する。（拡張子とファイルヘッダがあっているか等）
+* 利用者のWebブラウジングを監視し、危険なサイトへのアクセスを制限する。
+* リムーバブルメディア(USBメモリ等)を使う時は注意する
+* インターネットからダウンロードしたファイルは実行前にスキャンする。
+* 最新の脅威情報を入手し、適切なアクセスコントロールを行う。
+* MITRE ATT&CK Techniquesにアクセスし、追加対策を確認する。
+* CISA’s Alert on Technical Approaches to Uncovering and Remediating Malicious Activityを確認する。
+* CISA and MS-ISAC Ransomware Guideを確認する。
+
+[Alert (AA20-280A) Emotet Malware](https://us-cert.cisa.gov/ncas/alerts/aa20-280a)
+
+[「Emotet」対策でパスワード付きzip添付ファイルのブロックを推奨 - 米政府](https://www.security-next.com/119360)
+
+### CIS CSAT Proの1.1.0
+[スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),
+CIS Controlsについて、セルフチェックを行うツール。
+
+[https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/](https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/)
+
+### トレンドマイクロ 法人組織のセキュリティ動向調査結果
+[レポート](レポート.html),[トレンドマイクロ](トレンドマイクロ.html),
+トレンドマイクロが実施した法人組織のセキュリティ動向調査の結果。
+回答者の8割近くが2019年4月～2020年3月末の期間で何等かのセキュリティインシデントを経験していると回答した一方、内容はフィッシングメールの受信等の従来より存在するものが主。
+
+[https://blog.trendmicro.co.jp/archives/26357](https://blog.trendmicro.co.jp/archives/26357)
+
+### 日本IBM 情報漏えい時に発生するコストに関する調査報告書 (2020年版）
+[レポート](レポート.html),[日本IBM](日本IBM.html),
+日本IBMが実施した情報漏えい時に発生するコストに関する調査報告書 (2020年版）。
+情報漏えい発生時のコストの平均は過去6年間で微増、ただし、対策を実施している企業としていない企業で発生するコストの差は拡大傾向。
+
+[https://www.ibm.com/blogs/security/jp-ja/data-breach-three-biggest-factors-in-cost/](https://www.ibm.com/blogs/security/jp-ja/data-breach-three-biggest-factors-in-cost/)
+
+### JIPDEC DX推進エンジンとしての「JIS Q 20000」の活用
+[ガイド](ガイド.html),[JIPDEC](JIPDEC.html),
+JIPDECが、JIS Q 20000とDXの関係に対する講演の資料。
+JIS Q 20000そのものに関する説明もあり。
+
+[https://www.jipdec.or.jp/library/report/20200925.html](https://www.jipdec.or.jp/library/report/20200925.html)
+
 ### 警察庁 令和２年上半期におけるサイバー空間をめぐる脅威の情勢等について
 [レポート](レポート.html),[警察庁](警察庁.html),
 

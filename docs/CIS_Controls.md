@@ -1,3 +1,9 @@
+### CIS CSAT Proの1.1.0
+[スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),
+CIS Controlsについて、セルフチェックを行うツール。
+
+[https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/](https://www.cisecurity.org/blog/cis-csat-pro-v1-1-0-new-features-and-mappings-for-assessing-cis-controls-implementation/)
+
 ### CIS Controls and Sub-Controls Mapping to PCI DSS
 [スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),[PCI DSS](PCI_DSS.html),
 
