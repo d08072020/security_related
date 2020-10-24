@@ -36,4 +36,13 @@ NIST SP 800-37とセットで語られることが多い。
 
 [5分で読む解説+チェックシート](https://note.com/tanakato8/n/n8d99371d1aa6)
 
+### NIST SP 800-207 Zero Trust Architecture
+[スタンダード](スタンダード.html),[NIST](NIST.html),[NIST SP 800](NIST_SP_800.html),
+
+ゼロトラストアーキテクチャに関するスタンダード。
+今後、ゼロトラストの概念の業界標準となっていくと推測される。
+
+* [https://csrc.nist.gov/publications/detail/sp/800-207/final](https://csrc.nist.gov/publications/detail/sp/800-207/final)
+
+
 

@@ -105,6 +105,15 @@ NIST SP 800-37とセットで語られることが多い。
 
 [5分で読む解説+チェックシート](https://note.com/tanakato8/n/n8d99371d1aa6)
 
+### NIST SP 800-207 Zero Trust Architecture
+[スタンダード](スタンダード.html),[NIST](NIST.html),[NIST SP 800](NIST_SP_800.html),
+
+ゼロトラストアーキテクチャに関するスタンダード。
+今後、ゼロトラストの概念の業界標準となっていくと推測される。
+
+* [https://csrc.nist.gov/publications/detail/sp/800-207/final](https://csrc.nist.gov/publications/detail/sp/800-207/final)
+
+
 
 ### PCI-DSS
 [スタンダード](スタンダード.html),[規制](規制.html),[データセキュリティ](データセキュリティ.html),[業界標準](業界標準.html),[クレジットカード業界](クレジットカード業界.html),
@@ -154,6 +163,19 @@ SSAE 16も本SOX法の監査体系として作成された。
 
 * FISMA : Federl Information Systems Management Act
 
+### 通常兵器及び関連汎用品・技術の輸出管理に関するワッセナー・アレンジメント
+[法](法.html),[規制](規制.html),[輸出管理](輸出管理.html),
+
+通常兵器の輸出管理に関する、国際的な申し合わせ。
+日本で実施されている輸出管理も本アレンジメントに由来する。
+
+暗号化技術等、「兵器」のイメージから離れているものも対象となるため注意。
+また、規制リストを見直す専門家会合が年2回開催される。
+
+* The Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies
+
+* [外務省の該当ページ](https://www.mofa.go.jp/mofaj/gaiko/arms/wa/index.html)
+* [ワッセナー・アレンジメント](https://www.wassenaar.org/)
 
 
 ### STRIDE 脅威モデル
