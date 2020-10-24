@@ -107,6 +107,57 @@ tag:スタンダード,NIST,NIST SP 800
 
 --------------------------------------------------
 
+### PCI-DSS
+tag:スタンダード,規制,データセキュリティ,業界標準,クレジットカード業界
+
+クレジットカード業界のデータセキュリティに関する基準。
+包括的であり、他の業界でも参考になる。
+
+* PCI-DSS : Payment Card Industry Data Security Standard)
+
+### 一般データ保護規則(GDPR)
+tag:法,規制,個人情報,EU
+
+EUで策定・施行された個人情報を保護する規則。
+各国の個人情報保護の法律にも影響を与えていること、
+サービス提供業者が他の国にいる場合でもEU圏に利用者がいる場合には影響を受ける可能性があることから
+注意が必要。
+
+* GDPR : General Data Protection Regulation
+
+### 医療保険の携行性と責任に関する法律(HIPAA)
+tag:法,規制,個人情報,医療業界,アメリカ
+
+医療に関係した個人情報に関するアメリカの連邦法。
+
+* HIPAA : Health Insurance Portability and Accountability Act
+
+### グラム・リーチ・ブライリー法(GLBA)
+tag:法,規制,個人情報,金融業界,アメリカ
+
+銀行と保険会社の合併に関するアメリカの連邦法。
+口座情報等の個人情報を保護する要件が含まれている。
+
+* GLBA : Graham-Leach-Bliley Act
+
+### サーベンス・オクスリー法(SOX)
+tag:法,規制,個人情報,アメリカ
+
+SOX法。
+SSAE 16も本SOX法の監査体系として作成された。
+
+* SOX : Sarbances-Oxley Act
+
+### 連邦情報セキュリティ管理法(FISMA)
+tag:法,規制,アメリカ
+
+連邦政府機関に適用されるセキュリティに関するアメリカの国内法。
+
+* FISMA : Federl Information Systems Management Act
+
+
+--------------------------------------------------
+
 ### STRIDE 脅威モデル
 tag:Microsoft,フレームワーク,驚異モデル,STRIDE
 

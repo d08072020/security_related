@@ -106,6 +106,56 @@ NIST SP 800-37とセットで語られることが多い。
 [5分で読む解説+チェックシート](https://note.com/tanakato8/n/n8d99371d1aa6)
 
 
+### PCI-DSS
+[スタンダード](スタンダード.html),[規制](規制.html),[データセキュリティ](データセキュリティ.html),[業界標準](業界標準.html),[クレジットカード業界](クレジットカード業界.html),
+
+クレジットカード業界のデータセキュリティに関する基準。
+包括的であり、他の業界でも参考になる。
+
+* PCI-DSS : Payment Card Industry Data Security Standard)
+
+### 一般データ保護規則(GDPR)
+[法](法.html),[規制](規制.html),[個人情報](個人情報.html),[EU](EU.html),
+
+EUで策定・施行された個人情報を保護する規則。
+各国の個人情報保護の法律にも影響を与えていること、
+サービス提供業者が他の国にいる場合でもEU圏に利用者がいる場合には影響を受ける可能性があることから
+注意が必要。
+
+* GDPR : General Data Protection Regulation
+
+### 医療保険の携行性と責任に関する法律(HIPAA)
+[法](法.html),[規制](規制.html),[個人情報](個人情報.html),[医療業界](医療業界.html),[アメリカ](アメリカ.html),
+
+医療に関係した個人情報に関するアメリカの連邦法。
+
+* HIPAA : Health Insurance Portability and Accountability Act
+
+### グラム・リーチ・ブライリー法(GLBA)
+[法](法.html),[規制](規制.html),[個人情報](個人情報.html),[金融業界](金融業界.html),[アメリカ](アメリカ.html),
+
+銀行と保険会社の合併に関するアメリカの連邦法。
+口座情報等の個人情報を保護する要件が含まれている。
+
+* GLBA : Graham-Leach-Bliley Act
+
+### サーベンス・オクスリー法(SOX)
+[法](法.html),[規制](規制.html),[個人情報](個人情報.html),[アメリカ](アメリカ.html),
+
+SOX法。
+SSAE 16も本SOX法の監査体系として作成された。
+
+* SOX : Sarbances-Oxley Act
+
+### 連邦情報セキュリティ管理法(FISMA)
+[法](法.html),[規制](規制.html),[アメリカ](アメリカ.html),
+
+連邦政府機関に適用されるセキュリティに関するアメリカの国内法。
+
+* FISMA : Federl Information Systems Management Act
+
+
+
 ### STRIDE 脅威モデル
 [Microsoft](Microsoft.html),[フレームワーク](フレームワーク.html),[驚異モデル](驚異モデル.html),[STRIDE](STRIDE.html),
 
