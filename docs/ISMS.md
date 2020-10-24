@@ -1,7 +1,7 @@
 ## ISMS
 
 
-### ISO 27001/27002 (ISMS)
+### ISO 27001/27002 (ISMSと管理策実践のための規範)
 [スタンダード](スタンダード.html),[フレームワーク](フレームワーク.html),[ISO](ISO.html),[ISMS](ISMS.html),
 
 対象組織の対象業務において、情報セキュリティのマネジメントが正しく回すことを目的とした認証。
@@ -10,5 +10,4 @@
 
 * ISMS : Information Security Management System
 * [ISMS-AC](https://isms.jp/index.html)
-
 
