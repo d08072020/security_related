@@ -60,4 +60,3 @@ ISMAP(政府情報システムためのセキュリティ評価制度)につい�
 
 [https://www.ipa.go.jp/jinzai/jigyou/about.html](https://www.ipa.go.jp/jinzai/jigyou/about.html)
 
-

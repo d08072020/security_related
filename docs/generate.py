@@ -38,7 +38,11 @@ def main():
             item=item+line
     f.close()
 
+    tagListSort=[]
     for key,val in item_list_by_tag.items():
+        if key!="all":
+            tagListSort.append([len(val),key])
+
         f2 = open(key.replace(" ","_")+".md","w")
         if key in taglist:
             f2.write(taglist[key])
@@ -47,6 +51,16 @@ def main():
         for item in val:
             f2.write(item)
         f2.close()
+
+    tagListSort.sort(reverse=True)
+    f = open("index_seed.dat", "r")
+    f2 = open("index.md", "w")
+    for line in f:
+        f2.write(line)
+    f.close()
+    for item in tagListSort:
+        f2.write("["+item[1]+"("+str(item[0])+")](./"+item[1].replace(" ","_")+".html)\n")
+    f2.close()
 
 if __name__ == '__main__':
     main()

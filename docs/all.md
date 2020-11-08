@@ -225,6 +225,21 @@ Microsoftが考案したITに対する脅威の分析モデル。
 
 [「Emotet」対策でパスワード付きzip添付ファイルのブロックを推奨 - 米政府](https://www.security-next.com/119360)
 
+### CIS Videoconferencing Security Guide
+[スタンダード](スタンダード.html),[CIS](CIS.html),
+
+ビデオ会議を実施する際のセキュリティガイド。
+一般的に実施すべき内容と、各ビデオ会議サービス(WebEx、Teams、Zoom、BlueJeans)がその機能をサポートしているかの表が記載されている。
+
+[https://www.cisecurity.org/blog/top-videoconferencing-attacks-and-security-best-practices/](https://www.cisecurity.org/blog/top-videoconferencing-attacks-and-security-best-practices/)
+[https://www.cisecurity.org/white-papers/videoconferencing-security-guide/](https://www.cisecurity.org/white-papers/videoconferencing-security-guide/)
+
+### CIS Zoom Benchmark version 1.0.0
+[スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Benchmark](CIS_Benchmark.html),
+
+Zoomに関するCIS Benchmark。Zoomに特化して、具体的な方法まで含めて記載されている。
+
+[https://www.cisecurity.org/benchmark/zoom/](https://www.cisecurity.org/benchmark/zoom/)
 
 ### CIS CSAT Pro v1.1.0
 [スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),
@@ -314,9 +329,55 @@ ISMAP(政府情報システムためのセキュリティ評価制度)につい�
 
 [https://www.ipa.go.jp/jinzai/jigyou/about.html](https://www.ipa.go.jp/jinzai/jigyou/about.html)
 
+### サイバー情報共有イニシアティブ（J-CSIP） 運用状況(2020年7月-9月)
+[レポート](レポート.html),[J-CSIP](J-CSIP.html),
+
+J-CSIPの2020年7月-9月の運用状況レポート。
+主な内容は下記の通り。
+
+* 参加組織が4組織増え、、13業界263組織＋2情報連携体制に増加
+* J-CSIP参加組織からIPAへの情報提供件数が4,988件あり、直近の2019年10-12月(1,042件)、2020年1-3月(602件)、2020年4-6月(325件)に比べて大幅に増加。なお、9割はEmotetに関連している。
+* 最近のEmotetの状況と対策
+* BECの事例
+* 今までと異なる手法が利用されたExcelマクロを悪用した攻撃
+[https://www.ipa.go.jp/security/J-CSIP/index.html](https://www.ipa.go.jp/security/J-CSIP/index.html)
+[https://www.ipa.go.jp/files/000086549.pdf](https://www.ipa.go.jp/files/000086549.pdf)
+
+
+### JPCERT-CC インターネット定点観測レポート（2020年 7-9月）
+[レポート](レポート.html),[JPCERTCC](JPCERTCC.html),[インターネット定点観測レポート](インターネット定点観測レポート.html),
+
+2020年7-9月における、JPCERT/CCがインターネット上に設置しているセンサーに対して送信されてきたパケットの分析結果のレポート。
+TCPの445に対するパケットがもっとも多く、ついでTCPの23が高くなっている。
+
+[https://www.jpcert.or.jp/tsubame/report/report202007-09.html](https://www.jpcert.or.jp/tsubame/report/report202007-09.html)
+
+### JPCERT-CC IoTセキュリティチェックリスト
+[ガイド](ガイド.html),[JPCERTCC](JPCERTCC.html),[IoT](IoT.html),
+
+JPCERT-CCのIoTセキュリティチェックリスト。
+
+[https://www.jpcert.or.jp/research/IoT-SecurityCheckList.html](https://www.jpcert.or.jp/research/IoT-SecurityCheckList.html)
+
+### JNSA リモート署名ガイドライン
+[ガイド](ガイド.html),[JNSA](JNSA.html),
+
+JNSAによるリモート署名のガイドライン。
+
+[https://www.jnsa.org/result/jt2a/2020/index.html](https://www.jnsa.org/result/jt2a/2020/index.html)
+
+
+### 2020/10 フィッシング報告状況（月次報告書）
+[レポート](レポート.html),[フィッシング対策協議会](フィッシング対策協議会.html),[フィッシング報告状況](フィッシング報告状況.html),
+
+フィッシング対策協議会による、10月のフィッシング報告状況。
+フィッシング報告件数は増加したが、フィッシングURL件数は先月に比べて減少。ただし、フィッシングURL件数は先月(9月)が突出して多かったため、6月、7月、8月よりも増加している。
+
+
+[https://www.antiphishing.jp/news/info/202010.html](https://www.antiphishing.jp/news/info/202010.html)
 
 ### 2020/09 フィッシング報告状況（月次報告書）
-[レポート](レポート.html),[フィッシング対策協議会](フィッシング対策協議会.html),
+[レポート](レポート.html),[フィッシング対策協議会](フィッシング対策協議会.html),[フィッシング報告状況](フィッシング報告状況.html),
 
 フィッシング対策協議会による、9月のフィッシング報告状況。
 フィッシング報告件数、フィッシングURL件数ともに増加傾向にある一方、フィッシングに利用されたブランド数は減少。
@@ -336,6 +397,23 @@ ISMAP(政府情報システムためのセキュリティ評価制度)につい�
 
 [https://www.antiphishing.jp/news/info/20200909.html](https://www.antiphishing.jp/news/info/20200909.html)
 
+### 経済産業省 IoTセキュリティ・セーフティ・フレームワーク（IoT-SSF）
+[スタンダード](スタンダード.html),[経済産業省](経済産業省.html),[IoT](IoT.html),
+
+経済産業省によるIoT向けのセキュリティ・セーフティ・フレームワーク。
+
+本フレームワークは、現実世界とサイバー空間をつなぐ機器やシステムに対するセキュリティを検討する軸として、以下の3つを定義する。
+* 発生したインシデントの影響の回復困難性の度合い
+* 発生したインシデントの経済的影響の度合い（金銭的価値への換算）
+* 求められるセキュリティ・セーフティ要求
+
+また、主な読者としては下記が想定されている。
+* IoT を活用してサイバー空間とフィジカル空間をつなぐ新たな仕組み・サービスを実現しようとする者
+* そのような新たな仕組み・サービスで活用される IoT 機器・システムの開発を行う者
+* そのような新たな仕組み・サービスを適切に管理していく制度・環境を実現していこうとする者
+* そのような新たな仕組み・サービスを受ける者
+
+[https://www.meti.go.jp/press/2020/11/20201105003/20201105003.html](https://www.meti.go.jp/press/2020/11/20201105003/20201105003.html)
 
 ### 経済産業省 サイバーセキュリティ体制構築・人材確保の手引き
 [スタンダード](スタンダード.html),[経済産業省](経済産業省.html),[ガイド](ガイド.html),
@@ -393,7 +471,7 @@ JIS Q 20000そのものに関する説明もあり。
 [https://www.npa.go.jp/publications/statistics/cybersecurity/data/R02_kami_cyber_jousei.pdf](https://www.npa.go.jp/publications/statistics/cybersecurity/data/R02_kami_cyber_jousei.pdf)
 
 ### JSSEC 『IoTセキュリティチェックシート入門』公開
-[JSSEC](JSSEC.html),[Iot](Iot.html),[ガイド](ガイド.html),
+[JSSEC](JSSEC.html),[IoT](IoT.html),[ガイド](ガイド.html),
 
 IoTセキュリティチェックシートの解説スライドと動画
 [https://www.jssec.org/report/20200901.html](https://www.jssec.org/report/20200901.html)
@@ -444,7 +522,7 @@ IoTセキュリティチェックシートの解説スライドと動画
 
 
 ### トレンドマイクロ　2020年上半期の脅威動向分析
-[レポート](レポート.html),
+[レポート](レポート.html),[トレンドマイクロ](トレンドマイクロ.html),
 
 2020年上半期の脅威動向を分析した資料
 

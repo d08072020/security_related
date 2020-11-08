@@ -1,6 +1,22 @@
 ## CIS
 
 
+### CIS Videoconferencing Security Guide
+[スタンダード](スタンダード.html),[CIS](CIS.html),
+
+ビデオ会議を実施する際のセキュリティガイド。
+一般的に実施すべき内容と、各ビデオ会議サービス(WebEx、Teams、Zoom、BlueJeans)がその機能をサポートしているかの表が記載されている。
+
+[https://www.cisecurity.org/blog/top-videoconferencing-attacks-and-security-best-practices/](https://www.cisecurity.org/blog/top-videoconferencing-attacks-and-security-best-practices/)
+[https://www.cisecurity.org/white-papers/videoconferencing-security-guide/](https://www.cisecurity.org/white-papers/videoconferencing-security-guide/)
+
+### CIS Zoom Benchmark version 1.0.0
+[スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Benchmark](CIS_Benchmark.html),
+
+Zoomに関するCIS Benchmark。Zoomに特化して、具体的な方法まで含めて記載されている。
+
+[https://www.cisecurity.org/benchmark/zoom/](https://www.cisecurity.org/benchmark/zoom/)
+
 ### CIS CSAT Pro v1.1.0
 [スタンダード](スタンダード.html),[CIS](CIS.html),[CIS Controls](CIS_Controls.html),
 
